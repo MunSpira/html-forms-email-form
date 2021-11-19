@@ -1,0 +1,13 @@
+.message {
+width: 87%;
+height:150px;
+}   
+
+form {
+    display:flex;
+    flex-direction: column;  
+}
+
+.item{
+    margin-bottom: 15px;
+}
